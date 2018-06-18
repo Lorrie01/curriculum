@@ -1517,6 +1517,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Rudolph Maré's solution (Easy)](https://github.com/RudolphMare/search-engine-homepage) - [View in Browser](https://rudolphmare.github.io/search-engine-homepage/)
 * [Kenneth Ofosu's Solution](https://github.com/kofosu2289/google-homepage) - [View in Browser(Easy)](https://kofosu2289.github.io/google-homepage/) - [View in Browser(Difficult)](https://kofosu2289.github.io/google-homepage/results-page/search-results.html)
 * [Kushagra Kalash's solution (Easy)](https://github.com/TheSherlockHomie/googleHomepageClone) - [View in Browser](https://thesherlockhomie.github.io/googleHomepageClone/)
+* [Lorrie Pearson's solution (Easy)] (https://github.com/Lorrie01/google-homepage2) - [View in Browser]
+(https://lorrie01.github.io/google-homepage2/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
