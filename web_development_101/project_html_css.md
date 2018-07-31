@@ -1572,7 +1572,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Lexi's solution (Easy)](https://github.com/lexizimm/google-homepage) - [View in Browser](https://lexizimm.github.io/google-homepage/)
 * [amanData's solution (Easy)](https://github.com/amanData/google-homepage) - [View in Browser](https://amandata.github.io/google-homepage/)
 * [HanJosmer's solution (Difficult)](https://github.com/HanJosmer/google-results) - [View in Browser](https://HanJosmer.github.io/google-results/)
-
+* [Lorrie Pearson's solution (Difficult)](https://github.com/Lorrie01/myg_searchpage) - [View in Browser](https://lorrie01.github.io/myg_searchpage/)
 
 
 ### Additional Resources
